@@ -1,0 +1,9 @@
+.\Obj\inet.o: ..\USER\lwip-1.3.2\src\core\ipv4\inet.c
+.\Obj\inet.o: ..\USER\lwip-1.3.2\src\include\lwip\opt.h
+.\Obj\inet.o: ..\USER\lwip-1.3.2\lwipopts.h
+.\Obj\inet.o: ..\USER\lwip-1.3.2\src\include\lwip\debug.h
+.\Obj\inet.o: ..\USER\lwip-1.3.2\src\include\lwip\arch.h
+.\Obj\inet.o: ..\USER\lwip-1.3.2\src\include\arch\cc.h
+.\Obj\inet.o: ..\USER\lwip-1.3.2\src\include\arch\cpu.h
+.\Obj\inet.o: C:\Keil\\ARM\RV31\INC\stdio.h
+.\Obj\inet.o: ..\USER\lwip-1.3.2\src\include\ipv4\lwip\inet.h

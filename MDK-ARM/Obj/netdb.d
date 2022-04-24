@@ -1,0 +1,9 @@
+.\Obj\netdb.o: ..\USER\lwip-1.3.2\src\api\netdb.c
+.\Obj\netdb.o: ..\USER\lwip-1.3.2\src\include\lwip\netdb.h
+.\Obj\netdb.o: ..\USER\lwip-1.3.2\src\include\lwip\opt.h
+.\Obj\netdb.o: ..\USER\lwip-1.3.2\lwipopts.h
+.\Obj\netdb.o: ..\USER\lwip-1.3.2\src\include\lwip\debug.h
+.\Obj\netdb.o: ..\USER\lwip-1.3.2\src\include\lwip\arch.h
+.\Obj\netdb.o: ..\USER\lwip-1.3.2\src\include\arch\cc.h
+.\Obj\netdb.o: ..\USER\lwip-1.3.2\src\include\arch\cpu.h
+.\Obj\netdb.o: C:\Keil\\ARM\RV31\INC\stdio.h
